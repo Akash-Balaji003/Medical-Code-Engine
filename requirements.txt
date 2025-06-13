@@ -3,3 +3,4 @@ beautifulsoup4
 pandas
 openpyxl
 selenium
+simple_icd_10
