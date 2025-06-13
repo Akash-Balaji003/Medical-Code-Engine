@@ -4,3 +4,4 @@ pandas
 openpyxl
 selenium
 simple_icd_10
+sentence-transformers
